@@ -1,0 +1,14 @@
+module FirebaseFirestoreSwift {
+    header "FirebaseFirestoreSwift.h"
+    export *
+}
+
+module FirebaseFirestore {
+    header "FirebaseFirestore.h"
+    export *
+}
+
+module FirebaseAuth {
+    header "FirebaseAuth.h"
+    export *
+} 
